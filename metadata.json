@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Name": "Twokinds",
+        "Comment" : "Twokinds",
+        "Description": "After losing his memory to a mysterious battle, Trace Legacy, a former leader for an organization of mages called the Templar, finds himself in the company of Flora, a girl of strange, tiger-like qualities. As Trace gradually begins to re-learn what he once knew, he soon discovers that Flora belongs to a race of people who are enemies of his kind. As friendship confects with racial differences, Trace and Flora find themselves in a situation more critical than either of them can imagine.",
+        "Authors": [
+            {
+                "Email": "kde@noahengle.com",
+                "Name": "Noah Engle"
+            },
+            {
+                "Email": "bonat.karol@gmail",
+                "Name": "Karol Bonat"
+            }
+        ],
+        "Icon": "icon.png",
+        "Id": "",
+        "License": "GPLv2",
+        "Version": "0.2",
+        "Website": "https://github.com/kartof0nix/Twokinds-plasma"
+    },
+    "X-KDE-PlasmaComicProvider-SuffixType": "Number"
+}
